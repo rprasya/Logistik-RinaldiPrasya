@@ -3,22 +3,22 @@
         (object) [
             'title' => 'Beranda',
             'path' => '/',
-            'icon' => 'fas fa-th',
+            'icon' => 'fa fa-home',
         ],
         (object) [
             'title' => 'Barang Masuk',
             'path' => 'barang-masuk',
-            'icon' => 'fas fa-th',
+            'icon' => 'fa fa-arrow-down',
         ],
         (object) [
             'title' => 'Barang Keluar',
             'path' => 'barang-keluar',
-            'icon' => 'fas fa-th',
+            'icon' => 'fa fa-arrow-up',
         ],
         (object) [
             'title' => 'Stok Barang',
             'path' => 'stok-barang',
-            'icon' => 'fas fa-th',
+            'icon' => 'fa fa-archive',
         ],
     ];
 @endphp
@@ -39,19 +39,6 @@
             </div>
             <div class="info">
                 <a href="#" class="d-block">{{ auth()->user()->name }}</a>
-            </div>
-        </div>
-
-        <!-- SidebarSearch Form -->
-        <div class="form-inline">
-            <div class="input-group" data-widget="sidebar-search">
-                <input class="form-control form-control-sidebar" type="search" placeholder="Search"
-                    aria-label="Search">
-                <div class="input-group-append">
-                    <button class="btn btn-sidebar">
-                        <i class="fas fa-search fa-fw"></i>
-                    </button>
-                </div>
             </div>
         </div>
 
