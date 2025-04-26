@@ -23,7 +23,7 @@
                     <p>Barang Masuk</p>
                 </div>
                 <div class="icon" bis_skin_checked="1">
-                    <i class="ion ion-stats-bars"></i>
+                    <i class="ion ion-archive"></i>
                 </div>
                 <a href="/barang-masuk" class="small-box-footer">Selengkapnya <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -38,7 +38,7 @@
                     <p>Barang Keluar</p>
                 </div>
                 <div class="icon" bis_skin_checked="1">
-                    <i class="ion ion-pie-graph"></i>
+                    <i class="ion ion-shuffle"></i>
                 </div>
                 <a href="/barang-keluar" class="small-box-footer">Selengkapnya <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -52,7 +52,7 @@
                     <p>Total Stok Barang</p>
                 </div>
                 <div class="icon" bis_skin_checked="1">
-                    <i class="ion ion-bag"></i>
+                    <i class="ion ion-cube"></i>
                 </div>
                 <a href="/stok-barang" class="small-box-footer">Selengkapnya <i class="fas fa-arrow-circle-right"></i></a>
             </div>
